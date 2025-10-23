@@ -1,6 +1,6 @@
 # 🧮 Cost Projection Model — 2022 Medicare Current Beneficiary Survey (Cost Supplement)
 
-Updated 2025-10-22 
+Updated 2025-10-22  
 Created 2025-07-07
   
 Author: Holland Reece Brown  
