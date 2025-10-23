@@ -1,0 +1,8 @@
+# System files
+export
+*/export
+.DS_Store
+*/.DS_Store
+
+# Test notebook
+cost-projection.ipynb
